@@ -16,6 +16,8 @@ allprojects {
     repositories {
         jcenter()
         //lu chia liang testing
+        //second testing
+        //asdasd
     }
 }
 
